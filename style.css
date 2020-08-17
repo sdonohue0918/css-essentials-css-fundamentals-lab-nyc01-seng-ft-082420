@@ -40,5 +40,5 @@ a {
 
 #details {
   background:red;
-  float:left;;
+  display:block;
 }
