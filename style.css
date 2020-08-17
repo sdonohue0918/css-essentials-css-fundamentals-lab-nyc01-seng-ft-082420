@@ -31,5 +31,7 @@ a {
 #featured-property p {
   width:800px;
   text-align: center;
+  display:block;
+  
 
 }
